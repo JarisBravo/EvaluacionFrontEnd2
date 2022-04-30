@@ -1,0 +1,81 @@
+
+  .carousel-inner{
+    height: 40%;
+    width: 40%;
+    margin-left: 600px;
+    margin-top: 100px;
+    margin-bottom: 40px;
+  }
+#tarjeta1{
+  margin-left: 300px;
+  
+}
+
+#tarjeta2{
+  margin-left: 300px;
+
+}  
+
+#tarjeta3{
+  margin-left: 300px;
+
+} 
+
+#tarjeta4{
+  margin-left: 300px;
+
+}  
+
+.logofondo{
+  
+  margin-bottom: 100px;
+}
+
+.colorfondo{
+  background-color: lightgreen;
+
+}
+
+#colorinicio{
+  background-color: lightgreen;
+
+}  
+
+.imagenes img{
+
+  position: absolute;
+  padding-bottom: 200px;
+  left: 0px;
+  right: 0;
+}
+.img1 {
+  z-index: 1;
+  margin-left: 0;
+}
+.img2{
+  z-index: 3;
+}
+
+main{
+  margin-top: 500px;
+  margin-bottom: 0;
+  margin-left: 100;
+  padding-bottom: 0;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+  color: lightgreen;
+  -webkit-text-stroke: 1px gray ;
+
+}
+
+.col{
+
+  margin-left: 650px;
+  margin-right: 613px;
+  background-color: lightgreen;
+  padding-left: -300px;
+  margin-top: 40px;
+}
+
+
+    
